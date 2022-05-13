@@ -1,3 +1,3 @@
 recipes for foods!
 
-https://github.com/cColds/odin-recipes
+https://ccolds.github.io/odin-recipes/
